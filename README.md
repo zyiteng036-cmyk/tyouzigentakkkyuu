@@ -3,7 +3,7 @@
 **未来予測AIとの極限ラリー！物理演算の逆算とスキルを駆使して戦う、新感覚アクション卓球ゲーム。**
 
 
-▶ **[デモプレイ動画（YouTube）はこちら]([https://youtu.be/sGv9UuU36wQ](https://youtu.be/csvtdm2-0ek))**
+▶ **[デモプレイ動画（YouTube）はこちら](https://youtu.be/csvtdm2-0ek)**
 
 ---
 
